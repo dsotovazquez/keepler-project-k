@@ -143,8 +143,7 @@ These docker images were deployed using Docker Desktop v3.5.1 in a MacOs Laptop 
 The only prerequisites to test locally is to have installed Docker Desktop v3.5.1 (you can use docker engine directly if you want too) and a bash shell.
 I have installed too (but it is only optional) the mysql client to have access to the MySQL database from out of the docker images but it is not necesary.
 
-
-### Preparing the Local Environment
+### Preparing the Local Environment
 
 To prepare the local environment, I have used the current dockerhub mysql docker image (based in Debian 10).
 We have to install the same python runtime that we are executing in the hackerearth.com.
