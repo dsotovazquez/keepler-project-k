@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/dsotovazquez/keepler-project-k/edit/master/README.md">
     <img src="https://keepler.io/wp-content/uploads/2020/10/keepler-logo-retina.png" alt="Logo" width="200" height="80">
   </a>
 
