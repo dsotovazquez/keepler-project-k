@@ -288,7 +288,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 You can find this oop code in the repo too and compiled and running ok:
 
-<a href="https://github.com/dsotovazquez/keepler-project-k/keepler-project-oop/keepler-process.cpp" alt="Keepler Process"><img src="images/process.png">
+<a href="https://github.com/dsotovazquez/keepler-project-k/blob/master/keepler-project-oop/keepler-process.cpp" alt="Keepler Process"><img src="images/process.png">
 
 
 Daniel Soto Vázquez 
