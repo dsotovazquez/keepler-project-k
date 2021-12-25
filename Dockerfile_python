@@ -1,0 +1,7 @@
+FROM smizy/python:3.5.2-alpine
+RUN apk update
+RUN apk add --no-cache mariadb-client
+RUN apk add nano --no-cache curl
+RUN apk add curl --no-cache curl
+
+ENTRYPOINT ["/bin/sh"]
