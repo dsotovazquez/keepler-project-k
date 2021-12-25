@@ -170,14 +170,21 @@ Finally too, we have not used the mysql server (I have used it in the test asses
    chmod +x /usr/local/bin/processLog.py
    ```
 3. Copy the sample sql.log (optional)
-   ```cp -rp log-processor/input/sql.log /var/log
+
+   ```sh
+   cp -rp log-processor/input/sql.log /var/log
    ```
+   
+  
 4. Maybe your would like to adjust the default severity (optional)
    Edit the processLog.py and change the default_severity variable.
    
 5. Add the /usr/local/bin to you PATH vairable in your .bash_profile and
-    ```source $HOME/.bash_profile
-    ```
+
+   ```sh
+   source $HOME/.bash_profile
+   ```
+   
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
