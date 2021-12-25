@@ -68,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-t]](https://example.com)
 
 This project born in response to Keepler Code Challenge.
 
@@ -288,7 +288,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 You can find this oop code in the repo too and compiled and running ok:
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://github.com/dsotovazquez/keepler-project-k/keepler-project-oop/keepler-process.cpp" alt="Keepler Process"><img src="images/process.png">
 
 
 Daniel Soto Vázquez 
