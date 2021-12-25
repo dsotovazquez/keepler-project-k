@@ -286,12 +286,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 }
    ```
 
-You can find <a href="https://github.com/dsotovazquez/keepler-project-k/blob/master/keepler-project-oop/keepler-process.cpp" this complete oop code</a> in the repo too and compiled and running ok:
+You can find <a href="https://github.com/dsotovazquez/keepler-project-k/blob/master/keepler-project-oop/keepler-process.cpp" alt="OOP CODE"/> this complete oop code in the repo too and compiled and running ok:
 
 <a href="https://github.com/dsotovazquez/keepler-project-k/blob/master/keepler-project-oop/keepler-process.cpp" alt="Keepler Process"><img src="images/process.png">
 
-
-Daniel Soto Vázquez 
+Daniel Soto Vázquez />
 
 <p align="center">
     <a href="https://www.linkedin.com/in/dsotovazquez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
