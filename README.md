@@ -92,7 +92,7 @@ The program must read, process, and output the result for all input files within
 
 This means, if each of the input file contains multiple test cases, the code must complete all of these within that time limit. If the time limit is 1 second, and there may be 100 test cases and multiple input files, the program shouldn't be taking 1 second per test case - it needs to run all 100 in under 1 seconds.
 
-### Total Execution Time
+### Total Execution Time
 
 The code is tested multiple times with different input files. The execution time displayed is the total of the time spent for each input file. But the program is terminated if it exceeds the time limit mentioned in the problem while processing any input file. Hence:
 
