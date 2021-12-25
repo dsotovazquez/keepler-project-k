@@ -57,12 +57,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <li>
-      <a href="#Architecture">Getting Started</a>
+      <a href="#Architecture">Architecture</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Desing">Prerequisites</a></li>
+        <li><a href="#Deployment">Installation</a></li>
       </ul>
     </li>
+    <li>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
