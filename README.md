@@ -32,19 +32,19 @@
     <img src="https://keepler.io/wp-content/uploads/2020/10/keepler-logo-retina.png" alt="Logo" width="200" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Keepler Challenge README</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    README doc for the Keepler Challenge Code
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dsotovazquez/keepler-project-k/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/dsotovazquez/keepler-project-k">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/dsotovazquez/keepler-project-k/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/dsotovazquez/keepler-project-k/">Request Feature</a>
   </p>
 </div>
 
@@ -68,11 +68,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
