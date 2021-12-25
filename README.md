@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://keepler.io/wp-content/uploads/2020/10/keepler-logo-retina.png" alt="Logo" width="100" height="80">
+    <img src="https://keepler.io/wp-content/uploads/2020/10/keepler-logo-retina.png" alt="Logo" width="200" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
