@@ -98,7 +98,7 @@ The code is tested multiple times with different input files. The execution time
 
 * Total execution time <= (Time Limit * Number of input files)
 
-### Total Memory Consumed
+### Total Memory Consumed
 
 Total memory consumed by the program is sum of the memory consumed by program in stack, data, heap, and bss. 
 
