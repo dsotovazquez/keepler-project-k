@@ -1,0 +1,5 @@
+{
+  "init_datetime" : "2021-07-06 11:28:01",
+  "end_datetime"  : "2021-07-06 11:50:23",
+  "LogLine": "1625571628 26.34.12.2 CRITICAL \"DDoS Detected\""
+}
