@@ -59,13 +59,13 @@
     <li>
       <a href="#roadmap">Roadmap</a>
       <ul>
-        <li><a href="#architecture proposal">Architecture Proposal</a></li>
-        <li><a href="#step-functions">Step Functions State Machine</a></li>
-        <li><a href="#lambda">Lambda Functions</a></li>
-        <li><a href="#batch">AWS Batch</a></li>
-        <li><a href="#emr">EMR Cluster</a></li>
-        <li><a href="#iot">AWS IoT</a></li>
-        <li><a href="#sagemaker">SageMaker Model & Endpoint</a></li>
+        <li><a href="#architecture-proposal">Architecture Proposal</a></li>
+        <li><a href="#step-functions-state-machine">Step Functions State Machine</a></li>
+        <li><a href="#lambda-functions">Lambda Functions</a></li>
+        <li><a href="#aws-batch">AWS Batch</a></li>
+        <li><a href="#emr-cluster">EMR Cluster</a></li>
+        <li><a href="#aws-iot">AWS IoT</a></li>
+        <li><a href="#sagemaker-model">SageMaker Model</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
