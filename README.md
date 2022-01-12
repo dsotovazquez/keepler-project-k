@@ -56,6 +56,18 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li>
+      <a href="#roadmap">Roadmap</a>
+      <ul>
+        <li><a href="#arch">Architecture Proposal</a></li>
+        <li><a href="#step-functions">Step Functions State Machine</a></li>
+        <li><a href="#lambda">Lambda Functions</a></li>
+        <li><a href="#batch">AWS Batch</a></li>
+        <li><a href="#emr">EMR Cluster</a></li>
+        <li><a href="#iot">AWS IoT</a></li>
+        <li><a href="#sagemaker">SageMaker Model & Endpoint</a></li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -139,7 +151,6 @@ These docker images were deployed using Docker Desktop v3.5.1 in a MacOs Laptop 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-
 ### Prerequisites
 
 The only prerequisites to test locally is to have installed Docker Desktop v3.5.1 (you can use docker engine directly if you want too) and a bash shell.
@@ -215,7 +226,19 @@ For use the script:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+For use the lambda function:
 
+The lambda function is designed to process each log line in an asynchronous mode. The lambda is invoked with an event like this:
+
+{
+  "init_datetime" : "2021-07-06 11:28:01",
+  "end_datetime"  : "2021-07-06 11:50:23",
+  "LogLine": "1625571628 26.34.12.2 CRITICAL \"DDoS Detected\""
+}
+
+   ```
+      aws lambda invoke --function-name kp-logs-processor --profile dani --cli-binary-format raw-in-base64-out --invocation-type Event --payload file://event.json response.json
+   ```
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -232,7 +255,17 @@ See the [open issues](https://github.com/dsotovazquez/keepler-project-k/edit/mas
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Architecture Proposal
 
+<img src="images/keepler-log-processing.drawio.png" alt="keepler-log-processing">
+
+
+### Step Functions State Machine
+### Lambda Functions
+### AWS Batch
+### EMR Cluster
+### AWS IoT
+### SageMaker Model & Endpoint
 
 <!-- CONTRIBUTING -->
 ## Contributing
