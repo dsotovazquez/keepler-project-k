@@ -265,7 +265,7 @@ See the [open issues](https://github.com/dsotovazquez/keepler-project-k/edit/mas
 ### AWS Batch
 ### EMR Cluster
 ### AWS IoT
-### SageMaker Model & Endpoint
+### SageMaker Model
 
 <!-- CONTRIBUTING -->
 ## Contributing
