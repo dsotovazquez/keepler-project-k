@@ -59,7 +59,7 @@
     <li>
       <a href="#roadmap">Roadmap</a>
       <ul>
-        <li><a href="#arch">Architecture Proposal</a></li>
+        <li><a href="#architecture proposal">Architecture Proposal</a></li>
         <li><a href="#step-functions">Step Functions State Machine</a></li>
         <li><a href="#lambda">Lambda Functions</a></li>
         <li><a href="#batch">AWS Batch</a></li>
